@@ -7,8 +7,6 @@ tags = ["Deutsch", "Reportage"]
 image = "1-1267462282conq.jpg"
 description = ""
 +++
-
-
 **Kaffee, Energy-Drinks und Cola sind aus unserem Alltag kaum wegzudenken. Heutzutage trinken immer mehr Menschen koffeinhaltige Getränke, doch immer wieder hört man Sätze wie: Es führt zu Herzrhythmusstörung, es trocknet aus, es ist schädlich. Vor einigen Jahren verstarb sogar ein gesunder 16-Jähriger in den USA, als er nur drei koffeinhaltige Getränke innerhalb von zwei Stunden zu sich nahm. Also stellen wir uns die Frage: Ist Koffeinkonsum wirklich unbedenklich?**
 
 ![Foto: Théo Sauvain, 27.04.2023; Koffein aus Kaffeebohnen ](https://louisblg.netlify.app/koffein-der-versteckte-feind-in-deiner-tasse/whatsapp-bild-2023-04-27-um-22.47.37.jpg)
@@ -21,13 +19,13 @@ Es ist 6:40 Uhr und der Betroffene Herr Niquille schafft es nicht ohne ein koffe
 
 ![Coffein-Wikipedia https://de.wikipedia.org/wiki/Coffein#/media/Datei:Koffein\_-\_Caffeine.svg](https://louisblg.netlify.app/koffein-der-versteckte-feind-in-deiner-tasse/1920px-koffein_-_caffeine.svg.png)
 
-Coffein-Wikipedia https://de.wikipedia.org/wiki/Coffein#/media/Datei:Koffein_-_Caffeine.svg
+
 
 Koffein, auch als Teein bekannt, ist ein Alkaloid und wirkt beim Menschen stimulierend. Es ist in über 60 Pflanzen enthalten und entsprechend in vielen Nahrungsmitteln vorzufinden, vor allem in Getränken. So enthält eine Tasse Kaffee 30 – 100 mg, ein Energy-Drink 80 mg / Dose und 100 g dunkle Schokolade 90 mg Koffein. Pro Tag sollte man maximal 400 mg Koffein zu sich nehmen. Wenn Sie jetzt rechnen, wie viel Kaffee oder Energy-Drinks Sie pro Tag trinken, merken Sie vielleicht, dass 400 mg pro Tag schnell erreicht sind. Doch was macht ein übermässiger Konsum mit uns und bist du Koffein-abhängig? Zu diesen Fragen später mehr, denn um zu verstehen, ob jemand abhängig ist, muss man erst wissen, wie genau der Stoff wirkt.
 
 ![Bild mit Darstellung des Koffeingehalts verschiedener Getränke https://www.google.com/search?q=menge+koffein+kaffee&rlz=1C1VDKB_deCH1036CH1036&sxsrf=APwXEdfB6MoQJRoFKFXkqYedeGITi_dpzg:1682665406549&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiS59SOgcz-AhVZSaQEHat7B8wQ_AUoAnoECAIQBA&biw=1440&bih=749&dpr=2#imgrc=v6aABazA1CFGQM ](https://theoblog.netlify.app/koffein-der-versteckte-feind-in-deiner-tasse/infografik-koffeingehalt.jpg)
 
-Bild mit Darstellung des Koffeingehalts verschiedener Getränke https://www.google.com/search?q=menge+koffein+kaffee&rlz=1C1VDKB_deCH1036CH1036&sxsrf=APwXEdfB6MoQJRoFKFXkqYedeGITi_dpzg:1682665406549&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiS59SOgcz-AhVZSaQEHat7B8wQ_AUoAnoECAIQBA&biw=1440&bih=749&dpr=2#imgrc=v6aABazA1CFGQM
+
 
 ## **Koffein und seine Wirkung im Gehirn**
 
@@ -56,5 +54,3 @@ Dies können wohl nur die wenigsten von uns behaupten. Dass solch ein übermäss
 Doch nur weil einige Menschen süchtig nach einem Stoff sind, heisst es nicht, dass dieser unbedingt sehr schädlich ist. Dies verdeutlicht der Fakt, dass im Durchschnitt in der Schweiz täglich mehrere Tassen an koffeinhaltigen Getränken konsumiert werden. Wäre nun Koffein in irgendeiner Form sehr schädlich, wüsste man dies schon längstens. Allein vom Stimulans Koffein eine Vergiftung zu gelangen ist sehr schwer. «Vergiftet» wird man erst ab einer Dosis von 1g. Zur Erinnerung: Ein Kaffee enthält 30 – 100 mg Koffein. Man müsste demnach mindestens 10 Kaffees am Tag trinken, um Vergiftungssymptome zu spüren (Muskelkrämpfe, Herzrasen und Schweissausbrüche). Tödlich ist Koffein ab einer Dosis von 10 g – 100 Kaffees an einem Tag. Wie man sieht, ist es praktisch unmöglich, ausschliesslich aufgrund Koffeinkonsums schwerwiegende Folgen zu tragen. Ist Koffein demnach ungefährlich? - Nein Die Problematik liegt darin, dass Koffeinkonsum die Gefässe verengt und somit Blutdruck erhöht. Dies wiederum kann zu Herzwandverdickungen führen, weil das Herz dieselbe Menge Blut durch verengte Gefässe pumpen muss und dabei «Bodybuilding» betreibt. Die Herzwandverdickung führt in gewissen Fällen zu Herzrhythmusstörungen oder sogar Vorhofflimmern. Sie müssen sich nun jedoch nicht fürchten und nie wieder eine Tasse Kaffee anfassen, denn Herr Hagmann betont, Koffein kann eine verstärkende Wirkung auf bereits bestehende Probleme haben. Ein übergewichtiger Mann mit angeborenem Bluthochdruck, der täglich 400 mg Koffein konsumiert, riskiert eher Herzprobleme als jemand mit ähnlichen Voraussetzungen, der jedoch völlig auf Koffein verzichtet. Herr Hagmann verrät uns, dass des Öfteren Patienten mit Herzrhythmusstörungen zu ihm in die Praxis gehen, denen er nur durchs Drosseln oder Stoppen des Koffeinkonsums helfen kann – ganz ohne Medikamente. Embolien, Kammerflimmern und Hirnschläge haben alle drei etwas gemeinsam: Sie führen allesamt zum Tod und Koffein kann bei allen ein Faktor sein, um ihretwegen zu sterben. Liest man in der Zeitung von Todesfällen wegen Koffein, so sind diese Aussagen nur bedingt korrekt, denn Koffein selbst führt in der Regel nicht zum Tod. Es ist das tödliche Zusammenspiel von Vorerkrankungen kombiniert mit übermässigem Konsum.
 
 Wir konsumieren beide auch Koffein, sei es in der Mittagspause, am Morgen oder vor dem Lernen und hatten noch nie Beschwerden oder Probleme irgendeiner Form. So geht es vermutlich den meisten Menschen. Jetzt, nachdem wir uns einige Wochen intensiv mit dem Thema auseinandergesetzt haben, können wir abschliessend sagen, dass Koffein weder gut noch schlecht ist. Jeder / Jede muss für sich selbst entscheiden können, in welchem Masse Koffein seinem eigenen Körper hilft oder schadet, da wir alle unterschiedlich sind. Wir empfehlen nicht mehr als eine tägliche Dosis von einem Gramm zu konsumieren und allen Personen mit Herzkreislaufbeschwerden oder Bluthochdruck beim Konsum die Grenzen zu kennen.
-
-<!--EndFragment-->
