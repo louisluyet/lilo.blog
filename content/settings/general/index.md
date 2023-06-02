@@ -1,7 +1,7 @@
 +++
 headless = true
 title = "LouisBlog"
-description = " Rhabarberbarbarabarbarbarenbartbarbierbierbarbärbel"
+description = "Das ist mein Blog"
 footerLeft = "Powered by 💛 and [Lilo.Blog](https://www.lilo.blog)"
 footerRight = "[🏷️ Tags](/tags/) | [🗃️ Archive](/posts/) | [📣 Social](https://www.lilo.blog)"
 +++
