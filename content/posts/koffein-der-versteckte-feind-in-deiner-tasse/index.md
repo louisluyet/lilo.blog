@@ -5,7 +5,7 @@ draft = false
 pinned = false
 description = ""
 +++
-**kKaffee, Energy-Drinks und Cola sind aus unserem Alltag kaum wegzudenken. Heutzutage trinken immer mehr Menschen koffeinhaltige Getränke, doch immer wieder hört man Sätze wie: Es führt zu Herzrhythmusstörung, es trocknet aus, es ist schädlich. Vor einigen Jahren verstarb sogar ein gesunder 16-Jähriger in den USA, als er nur drei koffeinhaltige Getränke innerhalb von zwei Stunden zu sich nahm. Also stellen wir uns die Frage: Ist Koffeinkonsum wirklich unbedenklich?** 
+**Kaffee, Energy-Drinks und Cola sind aus unserem Alltag kaum wegzudenken. Heutzutage trinken immer mehr Menschen koffeinhaltige Getränke, doch immer wieder hört man Sätze wie: Es führt zu Herzrhythmusstörung, es trocknet aus, es ist schädlich. Vor einigen Jahren verstarb sogar ein gesunder 16-Jähriger in den USA, als er nur drei koffeinhaltige Getränke innerhalb von zwei Stunden zu sich nahm. Also stellen wir uns die Frage: Ist Koffeinkonsum wirklich unbedenklich?** 
 
 ![](whatsapp-bild-2023-04-27-um-22.47.37.jpg)
 
@@ -16,7 +16,6 @@ description = ""
 Es ist 6:40 Uhr und der Betroffene Herr Niquille schafft es nicht ohne ein koffeinhaltiges Getränk in den Tag zu starten. Jeremy Niquille arbeitet für das Bundesamt für Sozialversicherungen und ist starker Koffeinkonsument. Wir treffen ihn im Spitalackerpark, um ein Interview mit ihm zu führen. Doch was ist dieses ominöse Koffein, welches in vielen beliebten Getränken der Menschen vorhanden ist? Um diese Frage zu beantworten, suchen wir heute den Rat des Experten Herrn Hagmann. Er ist Kardiologe an der Kardiologischen Praxis Kirchenfeld und hat des Öfteren Patienten zu behandeln, deren Leiden mit Koffein in Verbindung steht. 
 
 ![](1920px-koffein_-_caffeine.svg.png)
-
 
 Koffein, auch als Teein bekannt, ist ein Alkaloid und wirkt beim Menschen stimulierend. Es ist in über 60 Pflanzen enthalten und entsprechend in vielen Nahrungsmitteln vorzufinden, vor allem in Getränken. So enthält eine Tasse Kaffee 30 – 100 mg, ein Energy-Drink 80 mg / Dose und 100 g dunkle Schokolade 90 mg Koffein. Pro Tag sollte man maximal 400 mg Koffein zu sich nehmen. Wenn Sie jetzt rechnen, wie viel Kaffee oder Energy-Drinks Sie pro Tag trinken, merken Sie vielleicht, dass 400 mg pro Tag schnell erreicht sind. Doch was macht ein übermässiger Konsum mit uns und bist du Koffein-abhängig? Zu diesen Fragen später mehr, denn um zu verstehen, ob jemand abhängig ist, muss man erst wissen, wie genau der Stoff wirkt. 
 
@@ -31,18 +30,14 @@ Grundlegend für die wach machende Wirkung von Koffein ist dessen chemischer Auf
 Fast jeden Morgen auf dem Weg zur Schule sieht man draussen oder im Bus Jugendliche mit einem Energie-Drink in der Hand, dieses Phänomen kommt immer öfters zum Vorschein. Der Kardiologe Herr Hagmann berichtet, dass einer der Hauptgründe dafür das Muntermachen sei, da wie bereits erwähnt Koffein das Adenosin im Gehirn verdrängt. Dadurch unterdrücken die Schüler ihre Müdigkeit, was zu erhöhter Stimmung, Aufmerksamkeit und Konzentrationsvermögen am frühen Morgen führt. Ausserdem steigert Koffein die Geschwindigkeit des Denkens, erleichtert das Lernen und verbessert das Langzeitgedächtnis. 
 Dies ist nicht nur bei den Jugendlichen der Fall, sondern auch bei vielen erwachsenen Personen, wie uns Niquille bestätigte. «Ich trinke eigentlich fast jeden Morgen Kaffee, es ist jetzt schon seit langem ein Morgenritual, ich werde dadurch direkt wach». Doch das Muntermachen ist nicht der einzige Grund, warum Erwachsene im Durchschnitt etwa 238 mg Koffein pro Tag zu sich nehmen. 
 
-
 Wir fragen einen weiteren Betroffenen des Koffeinkonsums im Schulhaus Kirchenfeld, Herrn Rytz. Er ist Physik- und Mathematiklehrer am Gymnasium Kirchenfeld und Koffeinkonsument, verdeutlicht wird das, indem er einen grossen Sack mit Kaffeesätzen bei sich trägt. Er erklärt uns, wie sein Kaffeekonsum entstand «Es wurde zu einer Art Gewohnheit. Seit ich das Gymnasium besucht habe, trinke ich jeden Tag Kaffee. Manche Menschen lesen sonntags die Zeitung, ich trinke jeden Tag einen Espresso.» 
 Manche Sportler benutzen Koffein auch als Aufputschmittel vor sportlichen Aktivitäten. Es hilft ihnen, ihre Leistung zu steigern und bei der Gewichtsabnahme, da Koffein den Stoffwechsel antreiben kann und die Fettverbrennung daher fördert. Dazu gibt es auch Hinweise darauf, dass Kaffee einige gesundheitliche Vorteile haben kann, wie beispielsweise einen Schutz vor Diabetes und Lebererkrankungen. 
 Oft hört man aber auch Sätze wie: Koffeinkonsum hilft gegen den Haarausfall. Doch die Wissenschaft ist sich dabei sehr uneinig. Einige Studien deuten darauf hin, dass Koffein tatsächlich positive Auswirkungen auf das Haarwachstum haben kann. Eine Untersuchung an der Universität Lübeck ergab, dass Koffein das Wachstum der Haarfollikel anregen kann, indem es die Zellteilung und die Produktion von Wachstumsfaktoren stimuliert. Allerdings gibt es auch viele Experten, die skeptisch sind und betonen, dass weitere Untersuchungen nötig sind, um den genauen Zusammenhang zwischen Koffein und Haarausfall zu verstehen. Einige befürchten sogar, dass ein übermässiger Konsum von Koffein das Problem eher verschlimmern als verbessern könnte, indem er den Körper unnötig belastet und möglicherweise den Hormonhaushalt durcheinanderbringt. Es ist also sicherlich verfrüht, Koffein als Heilmittel gegen Haarausfall zu preisen.
 Natürlich trinken viele weitere Menschen Koffein als Genussmittel. Sie mögen einfach den Geschmack von Kaffee oder Tee und trinken koffeinhaltige Getränke aus Freude daran. Doch Vorsicht: Koffein kann auch negative Auswirkungen auf unseren Körper haben, besonders wenn es in grossen Mengen konsumiert wird. Es ist daher wichtig, den Konsum von koffeinhaltigen Getränken im Rahmen zu halten und sich bewusst zu machen, wie viel Koffein man zu sich nimmt.
 
-
-
 ## **Die dunkle Seite des Koffeins**
 
 «Heute Vormittag habe ich 6 Kaffees getrunken» - Jeremy Niquille 
-
 
 Dies können wohl nur die wenigsten von uns behaupten. Dass solch ein übermässiger Konsum nicht gesund sein kann, sollte den meisten bewusst sein. Doch was genau ist schädlich am Koffeinkonsum und ab welcher Menge macht er sich bemerkbar?
 «Das unabweisbare Verlangen nach einem bestimmten Erlebniszustand» - so definiert man Sucht. Ist die Wirkung des Koffeins stark genug, um ihre Wirkung auf die Menschen als Erlebniszustand zu beschreiben? Wir fragen den Spezialisten Dr. Andreas Hagmann.
