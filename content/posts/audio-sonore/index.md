@@ -2,7 +2,7 @@
 title = "Audio Sonore"
 date = "2023-05-16"
 draft = false
-pinned = true
+pinned = false
 image = "aufmacher-lehrer_im_klassenzimmer.webp"
 description = "L'audio sonore de Samuel et moi"
 +++
