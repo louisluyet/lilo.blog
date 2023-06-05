@@ -7,19 +7,29 @@ tags = ["Deutsch", "Reportage"]
 image = "1-1267462282conq.jpg"
 description = ""
 +++
+# Koffein: Der versteckte Feind in deiner Tasse?
+
+
+
 **Kaffee, Energy-Drinks und Cola sind aus unserem Alltag kaum wegzudenken. Heutzutage trinken immer mehr Menschen koffeinhaltige Getränke, doch immer wieder hört man Sätze wie: Es führt zu Herzrhythmusstörung, es trocknet aus, es ist schädlich. Vor einigen Jahren verstarb sogar ein gesunder 16-Jähriger in den USA, als er nur drei koffeinhaltige Getränke innerhalb von zwei Stunden zu sich nahm. Also stellen wir uns die Frage: Ist Koffeinkonsum wirklich unbedenklich?**
 
-![Foto: Théo Sauvain, 27.04.2023; Koffein aus Kaffeebohnen ](https://louisblg.netlify.app/koffein-der-versteckte-feind-in-deiner-tasse/whatsapp-bild-2023-04-27-um-22.47.37.jpg)
+![Foto: Théo Sauvain, 27.04.2023; Koffein aus Kaffeebohnen ](https://theoblog.netlify.app/koffein-der-versteckte-feind-in-deiner-tasse/whatsapp-bild-2023-04-27-um-22.47.37.jpg)
+
+Foto: Théo Sauvain, 27.04.2023; Koffein aus Kaffeebohnen
 
 ## **Koffein: Das meistkonsumierte Stimulans der Welt**
 
 Es ist 6:40 Uhr und der Betroffene Herr Niquille schafft es nicht ohne ein koffeinhaltiges Getränk in den Tag zu starten. Jeremy Niquille arbeitet für das Bundesamt für Sozialversicherungen und ist starker Koffeinkonsument. Wir treffen ihn im Spitalackerpark, um ein Interview mit ihm zu führen. Doch was ist dieses ominöse Koffein, welches in vielen beliebten Getränken der Menschen vorhanden ist? Um diese Frage zu beantworten, suchen wir heute den Rat des Experten Herrn Hagmann. Er ist Kardiologe an der Kardiologischen Praxis Kirchenfeld und hat des Öfteren Patienten zu behandeln, deren Leiden mit Koffein in Verbindung steht.
 
-![Coffein-Wikipedia https://de.wikipedia.org/wiki/Coffein#/media/Datei:Koffein\_-\_Caffeine.svg](https://louisblg.netlify.app/koffein-der-versteckte-feind-in-deiner-tasse/1920px-koffein_-_caffeine.svg.png)
+![Coffein-Wikipedia https://de.wikipedia.org/wiki/Coffein#/media/Datei:Koffein\_-\_Caffeine.svg](https://theoblog.netlify.app/koffein-der-versteckte-feind-in-deiner-tasse/koffein_-_caffeine.svg.png)
+
+Coffein-Wikipedia https://de.wikipedia.org/wiki/Coffein#/media/Datei:Koffein_-_Caffeine.svg
 
 Koffein, auch als Teein bekannt, ist ein Alkaloid und wirkt beim Menschen stimulierend. Es ist in über 60 Pflanzen enthalten und entsprechend in vielen Nahrungsmitteln vorzufinden, vor allem in Getränken. So enthält eine Tasse Kaffee 30 – 100 mg, ein Energy-Drink 80 mg / Dose und 100 g dunkle Schokolade 90 mg Koffein. Pro Tag sollte man maximal 400 mg Koffein zu sich nehmen. Wenn Sie jetzt rechnen, wie viel Kaffee oder Energy-Drinks Sie pro Tag trinken, merken Sie vielleicht, dass 400 mg pro Tag schnell erreicht sind. Doch was macht ein übermässiger Konsum mit uns und bist du Koffein-abhängig? Zu diesen Fragen später mehr, denn um zu verstehen, ob jemand abhängig ist, muss man erst wissen, wie genau der Stoff wirkt.
 
 ![Bild mit Darstellung des Koffeingehalts verschiedener Getränke https://www.google.com/search?q=menge+koffein+kaffee&rlz=1C1VDKB_deCH1036CH1036&sxsrf=APwXEdfB6MoQJRoFKFXkqYedeGITi_dpzg:1682665406549&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiS59SOgcz-AhVZSaQEHat7B8wQ_AUoAnoECAIQBA&biw=1440&bih=749&dpr=2#imgrc=v6aABazA1CFGQM ](https://theoblog.netlify.app/koffein-der-versteckte-feind-in-deiner-tasse/infografik-koffeingehalt.jpg)
+
+Bild mit Darstellung des Koffeingehalts verschiedener Getränke https://www.google.com/search?q=menge+koffein+kaffee&rlz=1C1VDKB_deCH1036CH1036&sxsrf=APwXEdfB6MoQJRoFKFXkqYedeGITi_dpzg:1682665406549&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiS59SOgcz-AhVZSaQEHat7B8wQ_AUoAnoECAIQBA&biw=1440&bih=749&dpr=2#imgrc=v6aABazA1CFGQM
 
 ## **Koffein und seine Wirkung im Gehirn**
 
