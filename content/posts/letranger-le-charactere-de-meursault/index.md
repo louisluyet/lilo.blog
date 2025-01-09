@@ -1,6 +1,6 @@
 +++
 title = "L'étranger - Le charactère de Meursault"
-date = "2025-01-07"
+date = "2025-01-09"
 draft = false
 pinned = false
 image = "https://www.francebleu.fr/s3/cruiser-production/2022/02/ed56fd70-1b65-40fc-813e-90dc792b5996/1200x680_20220224-1.jpg"
